@@ -4,6 +4,9 @@
 
 AVideo Player application using React.jsallow users to play videos from a playlist. The app supporta features like seeking, timer, autoplay, and speed selector. Additionally, users can reorder the playlist.
 
+## Deployment:
+
+The live version of this project can be viewed [here](https://custom-video-player-dnd.netlify.app/).
 
 ## Features
 
@@ -22,10 +25,13 @@ AVideo Player application using React.jsallow users to play videos from a playli
   Esc - Exit Full Screen
   Right / Left Arrow Keys - Skip +5 / -5 seconds
 
+## Libraries Used
 
-## Deployment:
+- `react-beautiful-dnd` for drag-and-drop functionality in the playlist
+- `context-api` for managing application state
 
-The live version of this project can be viewed [here](https://custom-video-player-dnd.netlify.app/).
+
+
 
 
 ## Getting Started
