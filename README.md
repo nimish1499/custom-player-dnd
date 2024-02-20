@@ -50,7 +50,12 @@ You will need Node.js and npm installed on your system to run the project. You c
 2. Navigate to the project directory:
    ```sh
     cd [projectname]
-3. In the project directory, you can run:
+
+3. Navigate to the project directory:
+   ```sh
+    npm install
+
+4. In the project directory, you can run:
    ```sh
    npm start
 Runs the app in the development mode.\
