@@ -2,7 +2,7 @@
 
 # React Custom Video Player App
 
-AVideo Player application using React.jsallow users to play videos from a playlist. The app supporta features like seeking, timer, autoplay, and speed selector. Additionally, users can reorder the playlist.
+A Video Player application using React.jsallow users to play videos from a playlist. The app supporta features like seeking, timer, autoplay, and speed selector. Additionally, users can reorder the playlist.
 
 ## Deployment:
 
